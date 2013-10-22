@@ -1,6 +1,0 @@
-RewriteRule ^subscribe?$ "http://eepurl.com/cC28o" [R=301,L]
-RewriteRule ^qrcode1?$ "http://eepurl.com/cC28o" [R=301,L]
-RewriteRule ^join?$ "http://eepurl.com/cC28o" [R=301,L]
-RewriteRule ^donate?$ "http://www.uscwm.org/index.php/donate/donate_amount?ma_number=426" [R=301,L]
-RewriteRule ^giveonline?$ "http://www.uscwm.org/index.php/donate/donate_amount?ma_number=426" [R=301,L]
-RewriteRule ^donateonline?$ "http://www.uscwm.org/index.php/donate/donate_amount?ma_number=426" [R=301,L]
